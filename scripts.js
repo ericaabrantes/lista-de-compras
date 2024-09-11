@@ -1,4 +1,4 @@
-import { adicionarItem } from "./js/adicionarItem.js";
+import { adicionarItem } from "./js/adicionaritem.js";
 import { verificarListaComprados } from "./js/verificarListaComprados.js";
 
 const botaoSalvarItem = document.getElementById("adicionar-item");
